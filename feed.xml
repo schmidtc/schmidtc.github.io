@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>site</title>
+    <link href="https://schmidtc.github.io/feed.xml" rel="self" />
+    <link href="https://schmidtc.github.io" />
+    <updated>2019-12-31T20:21:53-07:00</updated>
+    <author>
+        <name>Charlie Schmidt</name>
+    </author>
+    <id>https://schmidtc.github.io</id>
+
+    <entry>
+        <title>Resume</title>
+        <author>
+            <name>Charlie Schmidt</name>
+        </author>
+        <link href="https://schmidtc.github.io/resume.html"/>
+        <id>https://schmidtc.github.io/resume.html</id>
+
+        <updated>2019-12-31T20:14:00-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://schmidtc.github.io/media/posts/1/lucas-clara-hvPB-UCAmmU-unsplash.jpg" alt="" />
+                    ExperienceSeptember 2019 - Now Applied Scientist, Zillow Group, New York ,NY
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://schmidtc.github.io/media/posts/1/lucas-clara-hvPB-UCAmmU-unsplash.jpg" alt="" />
+                <h2 id="mcetoc_1dtfh6pfg0"><strong>Experience</strong></h2>
+<p>September 2019 - Now</p>
+<p>Applied Scientist, Zillow Group, New York ,NY</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

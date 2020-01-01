@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "site",
+    "description": "",
+    "home_page_url": "https://schmidtc.github.io",
+    "feed_url": "https://schmidtc.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Charlie Schmidt"
+    },
+    "items": [
+        {
+            "id": "https://schmidtc.github.io/resume.html",
+            "url": "https://schmidtc.github.io/resume.html",
+            "title": "Resume",
+            "summary": "ExperienceSeptember 2019 - Now Applied Scientist, Zillow Group, New York ,NY",
+            "content_html": "<h2 id=\"mcetoc_1dtfh6pfg0\"><strong>Experience</strong></h2>\n<p>September 2019 - Now</p>\n<p>Applied Scientist, Zillow Group, New York ,NY</p>",
+            "image": "https://schmidtc.github.io/media/posts/1/lucas-clara-hvPB-UCAmmU-unsplash.jpg",
+            "author": {
+                "name": "Charlie Schmidt"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-31T20:12:46-07:00",
+            "date_modified": "2019-12-31T20:14:00-07:00"
+        }
+    ]
+}
